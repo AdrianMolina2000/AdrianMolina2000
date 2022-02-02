@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Adrian Molina</h1>
-- 🌱 I’m currently learning **Frameworks and Databases**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/Roshgard#5607" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Roshgard#5607" height="30" width="40" /></a>
